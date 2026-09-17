@@ -1,0 +1,6 @@
+{
+  "name": "Telangana Rythu AI - Agricultural Yield & Climate Forecast",
+  "description": "Intelligent dual-interface platform bridging offline farmers via 160-char SMS advisories with government planners tracking national food security reserve deficits and automated MSP procurement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
